@@ -1,6 +1,5 @@
 ---
 date: 2021-08-17T16:29:26+02:00
-draft: true
 title: Autoregressive models, compression and metrics
 ---
 
